@@ -8,6 +8,7 @@
 )
   - [osTicket: Ticket Lifecycle Examples](https://github.com/RafaBelmonte/ticket-lifecycle)
 - <b>Microsoft Azure</b>
+  - [Creating a Resource Groups and VM in Azure Test Project](https://github.com/RafaBelmonte/testproject)
   - [Configuring Active Directory within Azure VMs](https://github.com/RafaBelmonte/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/RafaBelmonte/azure-network-protocols)
 
