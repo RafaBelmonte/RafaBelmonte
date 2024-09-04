@@ -1,4 +1,4 @@
-<h1>Hi, I'm Rafael, an <a href="https://linkedin.com/in/rafael-belmonte-de-castro">IT/Cyber Security Student</a></h1>
+<h1>Hi, I'm Rafael, an <a href="https://linkedin.com/in/rafael-belmonte-de-castro">IT/Cyber Security</a></h1>
 
 <h2> Information Technology Projects:</h2>
 
